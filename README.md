@@ -1,2 +1,2 @@
 # odin-recipes
-Simple project of a recipe page
+Simple recipe website that is build on HTML
