@@ -18,5 +18,6 @@ h1 {
 .foodimg {
   display: block;
   margin-left: auto;
-  margin-right: auto
+  margin-right: auto;
+  border: 1px solid rgb(7, 7, 7);
 }
